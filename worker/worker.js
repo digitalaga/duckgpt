@@ -92,11 +92,11 @@ let CONFIG = {
       "developer": `https://vauth.github.io/duck-gui/assets/developer.png`,
       "help": `https://vauth.github.io/duck-gui/assets/help.png`,
       "load": `https://vauth.github.io/duck-gui/assets/load.gif`,
-      "photo": `https://vauth.github.io/duck-gui/assets/photo.jpg`,
+      "photo": `https://i.ibb.co/q56H5Yy/lina-5-1.png`,
       "send": `https://vauth.github.io/duck-gui/assets/send.png`,
       "setting": `https://vauth.github.io/duck-gui/assets/setting.png`,
       "source": `https://vauth.github.io/duck-gui/assets/source.png`,
-      "favicon": `https://vauth.github.io/duck-gui/assets/favicon.png`,
+      "favicon": `https://i.ibb.co/q56H5Yy/lina-5-1.png`,
       "ogcover": `https://vauth.github.io/duck-gui/assets/ogcover.png`
   }
 }
